@@ -10,6 +10,6 @@ int main(void)
 	/* string*/
 	char Mystr[] = """Programming is like building a multilingual puzzle";
 
-	puts(Myst);
+	puts(Mystr);
 return (0);
 }
